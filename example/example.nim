@@ -22,7 +22,7 @@ nlConfig(bgColor=(255,255,255),bgAlpha=200,textColor=(0,0,0),bdColor=(200,200,20
 # = nlTheme =
 # nlTheme(Defalt)
 # {If you are troublesome that set colors of your graph,you can set theme color of graph.}
-# Defalt : Defalt color [omitable] (bgColor=(255,255,255),textColor=(0,0,0),bdColor=(200,200,200))
+# Defalt : Defalt color (bgColor=(255,255,255),textColor=(0,0,0),bdColor=(200,200,200))
 # Dark   : Dark color (bgColor=(10,10,10),textColor=(250,250,250),bdColor=(60,60,60))
 # Cream  : Creamy color (bgColor=(255,245,190),textColor=(70,62,0),bdColor=(220,200,150))
 # Sky    : Color like the sky (bgColor=(180,235,255),textColor=(0,20,50),bdColor=(250,250,250))
