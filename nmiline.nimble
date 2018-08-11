@@ -1,3 +1,4 @@
+name        = "nmiline"
 version     = "1.0"
 author      = "Teruki Tada"
 description = "Protting tool using NiGui"
