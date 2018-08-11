@@ -1,5 +1,5 @@
 # NmiLine
-NmiLine is a plotting tool mainly for machine learning using NiGui.
+NmiLine is a plotting tool mainly for machine learning using [NiGui](https://github.com/trustable-code/NiGui).
 
 ## History
 2018/08/01: v1.0 Released
