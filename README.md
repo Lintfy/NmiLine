@@ -3,6 +3,7 @@ NmiLine is a plotting tool mainly for machine learning using [NiGui](https://git
 
 ## History
 2018/08/01: v1.0 Released
+
 2018/08/12: v1.01 Added "nmiline.nimble" and "LICENCE"
 
 ## Licence
