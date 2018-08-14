@@ -5,4 +5,4 @@ license     = "MIT"
 
 requires "nim >= 0.18.0"
 srcDir = "src"
-skipDirs = @ ["example,ScreenShots"]
+skipDirs = @ ["example","ScreenShots"]
