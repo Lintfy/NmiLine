@@ -4,3 +4,5 @@ description = "Plotting tool using NiGui"
 license     = "MIT"
 
 requires "nim >= 0.18.0"
+skipDirs = @ [" example "]
+skipDirs = @ [" ScreenShots "]
