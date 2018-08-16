@@ -154,7 +154,7 @@ proc nlShow*()=
   app.init()
 
   # Window
-  let W=newWindow("Nmiline v1.1")
+  let W=newWindow("Nmiline v1.1.0")
   W.width=Wwh[0]
   W.height=Wwh[1]+40
   let gwh=50
