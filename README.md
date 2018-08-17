@@ -6,6 +6,10 @@ NmiLine is a plotting tool mainly for machine learning using [NiGui](https://git
 
 2018/08/12: v1.01 Added "nmiline.nimble" and "LICENCE"
 
+---
+
+2018/08/16: v1.1 Add graph controler , more functions and options .
+
 ## Licence
 Nmiline is free and open-source software.
 
