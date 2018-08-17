@@ -2,11 +2,14 @@
 NmiLine is a plotting tool mainly for machine learning using [NiGui](https://github.com/trustable-code/NiGui).
 
 ## History
+
+### v1.0.x
+
 2018/08/01: v1.0 Released
 
 2018/08/12: v1.01 Added "nmiline.nimble" and "LICENCE"
 
----
+### v 1.1.x
 
 2018/08/16: v1.1 Add graph controler , more functions and options .
 
