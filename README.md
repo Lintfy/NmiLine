@@ -1,8 +1,8 @@
 # NmiLine
 NmiLine is a plotting tool using [NiGui](https://github.com/trustable-code/NiGui).
 
-This project is going to stop.
-I am planning a new stage.
+This project has already finished.
+I am planning a new stage.(Using win32API and gtk)
 
 ## History
 
