@@ -1,6 +1,9 @@
 # NmiLine
 NmiLine is a plotting tool using [NiGui](https://github.com/trustable-code/NiGui).
 
+This project is going to stop.
+I am planning a new stage.
+
 ## History
 
 ### v1.0.x
